@@ -1,8 +1,7 @@
 <h1 align="center">Console.log('Ruan Pablo')</h1>
 
-- Hi 👋, my name is Ruan Pablo and my nickname is Hoyci. I'm a programming student.
-- I'm studying to improve my knowledge in **Node.js** and **ReactJS** ⚛️.
-- Here's a curious fact: **I studied music and even entered the music university but 2 years ago I decided that I would like to dive into the world of technology and here I am.**
+- Hi 👋, my name is Ruan Pablo and my nickname is Hoyci.
+- Here's a curious fact: **I studied music and even entered the music university but 4 years ago I decided that I would like to dive into the world of technology and here I am.**
 - If you want to send me a message, my email address 📫 is: **ruan.pablo.pec@hotmail.com**
 or send me a message in LinkedIn: <a href="https://www.linkedin.com/in/ruan-pablo-ribeiro/">LinkedIn</a>
 
